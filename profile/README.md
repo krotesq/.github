@@ -6,7 +6,7 @@ Creating awesome open-source software
 
 - [aaronlyy](https://github.com/aaronlyy)
 - [emirsvbo](https://github.com/emirsvbo)
-- [J4yy](https://github.com/J4yy)
+- [J4yy](https://github.com/J4yyy)
 
 ### Active open-source projects
 
