@@ -1,5 +1,3 @@
-## Krotesq
-
 Useful tools & libraries for everbody. Made with ♥ in Germany.
 
 ### Our team
