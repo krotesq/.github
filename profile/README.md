@@ -1,17 +1,15 @@
-## Krotesq Collective
+## Krotesq
 
-Creating awesome open-source software
+Useful tools & libraries for everbody. Made with ♥ in Germany.
 
-### Members
+### Our team
 
 - [aaronlyy](https://github.com/aaronlyy)
 - [emirsvbo](https://github.com/emirsvbo)
 - [noahshz](https://github.com/noahshz)
 - [j4yy](https://github.com/J4yyy)
 
-### Active open-source projects
-
-- [shary](https://github.com/krotesq/shary)
+### Active projects
 
 <!--
 
