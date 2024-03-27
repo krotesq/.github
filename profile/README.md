@@ -1,8 +1,8 @@
 ## Krotesq Solutions
 
 ### Contact
-Web: [krotesq.com](https://krotesq.com)
-Mail: hello@krotesq.com
+- Web: [krotesq.com](https://krotesq.com)
+- Mail: hello@krotesq.com
 
 
 ### Our team
