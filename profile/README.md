@@ -1,7 +1,7 @@
 ## Krotesq Solutions
 
 ### Contact
-Visit us at our website: [krotesq.com](https://krotesq.com)
+Visit us at our websitea at [krotesq.com](https://krotesq.com) or write us an email to hello@krotesq.com
 
 ### Our team
 
