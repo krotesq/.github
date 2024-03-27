@@ -1,4 +1,7 @@
-Crafting beautiful apps since 2019
+## Krotesq Solutions
+
+### Contact
+Visit us at our website: (https://krotesq.com)[krotesq.com]
 
 ### Our team
 
