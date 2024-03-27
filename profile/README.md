@@ -1,4 +1,4 @@
-Useful tools & libraries for everbody. Made with ♥ in Germany.
+Crafting beautiful apps since 2019
 
 ### Our team
 
@@ -6,16 +6,3 @@ Useful tools & libraries for everbody. Made with ♥ in Germany.
 - [emirsvbo](https://github.com/emirsvbo)
 - [noahshz](https://github.com/noahshz)
 - [j4yy](https://github.com/J4yyy)
-
-### Active projects
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
