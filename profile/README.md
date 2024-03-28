@@ -1,11 +1,12 @@
-## Krotesq Solutions
+## krotesq solutions
 
-### Contact
-- Web: [krotesq.com](https://krotesq.com)
-- Mail: hello@krotesq.com
+### contact
+- W
+- web: [krotesq.com](https://krotesq.com)
+- mail: hello@krotesq.com
 
 
-### Our team
+### our team
 
 - [aaronlyy](https://github.com/aaronlyy)
 - [emirsvbo](https://github.com/emirsvbo)
