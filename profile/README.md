@@ -1,4 +1,4 @@
-## krotesq solutions
+## krotesq collective
 
 ### contact
 - web: [krotesq.com](https://krotesq.com)
